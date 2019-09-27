@@ -1,0 +1,46 @@
+h1,h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 60px;
+    background-color: rgba(245, 242, 66, 0.3);
+    color: black;
+    }
+
+button{
+        display: block;
+        text-align: center;
+        padding: auto;
+        margin: auto;
+    }
+
+#div3{
+    text-align: center;
+    background-color: rgba(245, 242, 66, 0.3);
+}
+
+h3{
+    text-align: center;
+    color: white;
+}
+
+footer{
+    text-align: center;
+    background-color: blue;
+}
+
+#div5{
+    text-align: center;
+    background-color: rgba(245, 242, 66, 0.3);
+}
+
+#p1{
+    text-align: center;
+}
+
+header{
+    background-image: url(https://www.coco-mat.com/wp-content/uploads/2015/07/IMG_1599.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 1400px;
+    padding: 300px;
+    
+}
